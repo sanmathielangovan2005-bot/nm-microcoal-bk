@@ -1,0 +1,20 @@
+{
+  "name": "microgoals",
+  "version": "1.0.0",
+  "description": "Secure Goal Management Backend API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Sanmathi",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.6.1",
+    "express": "^4.22.1",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^7.8.9"
+  },
+  "keywords": [],
+  "type": "commonjs"
+}
